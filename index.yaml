@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   kubecloud:
   - apiVersion: v2
+    appVersion: 0.0.8
+    created: "2022-01-26T15:48:47.117949531Z"
+    description: A Helm chart for Kubernetes
+    digest: fbe6ecd779a5de6507a22ff390c9a841b1f2947904bbb58b397f7570c5a92829
+    name: kubecloud
+    type: application
+    urls:
+    - https://arenabrab.github.io/kubecloud-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
     appVersion: 0.0.6
     created: "2022-01-26T05:10:06.677079262Z"
     description: A Helm chart for Kubernetes
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/kubecloud-0.0.4.tgz
     version: 0.0.4
-generated: "2022-01-26T05:10:06.676340472Z"
+generated: "2022-01-26T15:48:47.117173136Z"
